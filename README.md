@@ -1,2 +1,1 @@
-# freeCodeCamp
-freeCodeCamp code that I have solved.
+Collection of solution and project from the freeCodeCamp that I have solved.
