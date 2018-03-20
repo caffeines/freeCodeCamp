@@ -1,0 +1,55 @@
+body{
+  background-color: #dcdcdc;
+}
+.profile{
+  border-radius:50%;
+  height:280px;
+  width:280px;
+}
+.prof-box{
+  width:500px;
+	height:550px;
+	background: rgba(0,0,0,0.8);
+	padding: 40px;
+	color: white;
+	margin: 0 auto;
+	margin-top: 10px;
+	text-align: center;
+}
+
+.icon{
+  border-radius:50%;
+  height:35px;
+  width:35px;
+}
+
+.line-break{
+  width: 425px;
+	border-top: 1px solid white;
+}
+.pimage{
+  margin: center;
+  margin-left: 10px;
+  margin-right: 10px;
+  width:350px;
+  height:250px;
+}
+
+.line-break2{
+  width: 600px;
+  margin: 0 auto;
+	border-top: 4px solid black;
+  margin-bottom: 80px;
+}
+.porto{
+  margin: 0 auto;
+  margin-left: 120px;
+  margin-top: 15px;
+}
+#contact {
+margin-top:150px;
+}
+
+#port {
+margin-top:150px;
+}
